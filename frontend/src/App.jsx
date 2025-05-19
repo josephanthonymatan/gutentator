@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useLayoutEffect } from "react";
 
-const BACKEND = "https://gutentator.fly.dev/";
+const BACKEND = "https://gutentator.fly.dev";
 
 
 const EXAMPLE_URLS = [
